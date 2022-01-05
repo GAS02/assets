@@ -1,0 +1,23 @@
+{
+    "name": "GAS02",
+    "website": "https://gaso2.blogspot.com/",
+    "description": "GAS02 is a cryptocurrency worldwide Available to purchase. It is the decentralized digital currency, as the system works without a central bank or single administrator.",
+    "explorer": "https://bscscan.com/address/0xd8534bb1fb2fe55e1cb447cf3a474698d1084154",
+    "symbol": "GAS02",
+    "type": "BEP20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd8534bb1fb2fe55e1cb447cf3a474698d1084154",
+    "links": [
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/02Gas"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GASO210"
+        },
+       
+        
+    ]
+}
